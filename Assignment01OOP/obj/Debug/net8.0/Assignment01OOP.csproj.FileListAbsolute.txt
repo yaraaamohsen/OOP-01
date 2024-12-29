@@ -1,0 +1,14 @@
+D:\Backend Development\C# Basics\Session01OOP\Assignment01OOP\obj\Debug\net8.0\Assignment01OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend Development\C# Basics\Session01OOP\Assignment01OOP\obj\Debug\net8.0\Assignment01OOP.AssemblyInfoInputs.cache
+D:\Backend Development\C# Basics\Session01OOP\Assignment01OOP\obj\Debug\net8.0\Assignment01OOP.AssemblyInfo.cs
+D:\Backend Development\C# Basics\Session01OOP\Assignment01OOP\obj\Debug\net8.0\Assignment01OOP.csproj.CoreCompileInputs.cache
+D:\Backend Development\C# Basics\Session01OOP\Assignment01OOP\bin\Debug\net8.0\Assignment01OOP.exe
+D:\Backend Development\C# Basics\Session01OOP\Assignment01OOP\bin\Debug\net8.0\Assignment01OOP.deps.json
+D:\Backend Development\C# Basics\Session01OOP\Assignment01OOP\bin\Debug\net8.0\Assignment01OOP.runtimeconfig.json
+D:\Backend Development\C# Basics\Session01OOP\Assignment01OOP\bin\Debug\net8.0\Assignment01OOP.dll
+D:\Backend Development\C# Basics\Session01OOP\Assignment01OOP\bin\Debug\net8.0\Assignment01OOP.pdb
+D:\Backend Development\C# Basics\Session01OOP\Assignment01OOP\obj\Debug\net8.0\Assignment01OOP.dll
+D:\Backend Development\C# Basics\Session01OOP\Assignment01OOP\obj\Debug\net8.0\refint\Assignment01OOP.dll
+D:\Backend Development\C# Basics\Session01OOP\Assignment01OOP\obj\Debug\net8.0\Assignment01OOP.pdb
+D:\Backend Development\C# Basics\Session01OOP\Assignment01OOP\obj\Debug\net8.0\Assignment01OOP.genruntimeconfig.cache
+D:\Backend Development\C# Basics\Session01OOP\Assignment01OOP\obj\Debug\net8.0\ref\Assignment01OOP.dll

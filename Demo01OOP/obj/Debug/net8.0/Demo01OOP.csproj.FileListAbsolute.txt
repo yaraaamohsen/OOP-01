@@ -1,0 +1,14 @@
+D:\Backend Development\C# Basics\Session01OOP\Demo01OOP\obj\Debug\net8.0\Demo01OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend Development\C# Basics\Session01OOP\Demo01OOP\obj\Debug\net8.0\Demo01OOP.AssemblyInfoInputs.cache
+D:\Backend Development\C# Basics\Session01OOP\Demo01OOP\obj\Debug\net8.0\Demo01OOP.AssemblyInfo.cs
+D:\Backend Development\C# Basics\Session01OOP\Demo01OOP\obj\Debug\net8.0\Demo01OOP.csproj.CoreCompileInputs.cache
+D:\Backend Development\C# Basics\Session01OOP\Demo01OOP\bin\Debug\net8.0\Demo01OOP.exe
+D:\Backend Development\C# Basics\Session01OOP\Demo01OOP\bin\Debug\net8.0\Demo01OOP.deps.json
+D:\Backend Development\C# Basics\Session01OOP\Demo01OOP\bin\Debug\net8.0\Demo01OOP.runtimeconfig.json
+D:\Backend Development\C# Basics\Session01OOP\Demo01OOP\bin\Debug\net8.0\Demo01OOP.dll
+D:\Backend Development\C# Basics\Session01OOP\Demo01OOP\bin\Debug\net8.0\Demo01OOP.pdb
+D:\Backend Development\C# Basics\Session01OOP\Demo01OOP\obj\Debug\net8.0\Demo01OOP.dll
+D:\Backend Development\C# Basics\Session01OOP\Demo01OOP\obj\Debug\net8.0\refint\Demo01OOP.dll
+D:\Backend Development\C# Basics\Session01OOP\Demo01OOP\obj\Debug\net8.0\Demo01OOP.pdb
+D:\Backend Development\C# Basics\Session01OOP\Demo01OOP\obj\Debug\net8.0\Demo01OOP.genruntimeconfig.cache
+D:\Backend Development\C# Basics\Session01OOP\Demo01OOP\obj\Debug\net8.0\ref\Demo01OOP.dll
