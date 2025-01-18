@@ -67,6 +67,28 @@
             //Console.WriteLine(E01); 
             #endregion
 
+            #region Encapsulation With Eng Mariam Shindy
+            PhoneBook note = new PhoneBook(3);
+            note.AddPerson(0, "Mariam", 123);
+            note.AddPerson(1, "Mona", 456);
+            note.AddPerson(2, "Yara", 789);
+
+            //Console.WriteLine(note);
+
+            //int PhoneNumber = note.GetPhoneNumberByName("Mona");
+            //Console.WriteLine(PhoneNumber);
+           
+            note["Yara"] = 999;
+            //Console.WriteLine(note["Yara"]);
+
+            for (int i = 0; i < note.Size; i++)
+            {
+                Console.WriteLine(note[i]);
+            }
+
+
+            #endregion
+
             // Apply Encapsulation Using Properties
             // 1. Full Property
             // 2. Automatic Property

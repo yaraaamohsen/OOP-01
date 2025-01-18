@@ -7,6 +7,12 @@ using System.Threading.Tasks;
 
 namespace Assignment01OOP
 {
+
+    public enum Gender
+    {
+        F,
+        M
+    }
     public enum SecurityLevel
     {
         Guest,
@@ -18,27 +24,21 @@ namespace Assignment01OOP
     {
         public int ID { get; set; }
         public string Name { get; set; }
-        public char Gender { get; set; }
+        public Gender Gender { get; set; }
         public SecurityLevel SecurityPrivilege { get; set; }
         public decimal Salary { get; set; }
-        public DateTime HireDate { get; set; }
+        public HireDate HireDate { get; set; }
 
-        public Employee(int id, string name, char gender, SecurityLevel securityPrivilege, decimal salary, DateTime hireDate)
+        public Employee(int id, string name, Gender gender, SecurityLevel securityPrivilege, decimal salary, HireDate hireDate)
         {
-            if (IsValidGender(gender))
-            {
-                ID = id;
-                Name = name;
-                Gender = gender;
-                SecurityPrivilege = securityPrivilege;
-                Salary = salary;
-                HireDate = hireDate;
-            }
-        }
-
-        private bool IsValidGender(char gender)
-        {
-            return gender == 'M' || gender == 'F';
+           
+            ID = id;
+            Name = name;
+            Gender = gender;
+            SecurityPrivilege = securityPrivilege;
+            Salary = salary;
+            HireDate = hireDate;
+           
         }
 
         public override string ToString()

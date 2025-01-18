@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Backend Development\\C# Basics\\Session01OOP\\Assignment01OOP\\Assignment01OOP.csproj",
+      "projectUniqueName": "D:\\Backend Development\\OOP\\Session01\\Assignment01OOP\\Assignment01OOP.csproj",
       "projectName": "Assignment01OOP",
-      "projectPath": "D:\\Backend Development\\C# Basics\\Session01OOP\\Assignment01OOP\\Assignment01OOP.csproj",
+      "projectPath": "D:\\Backend Development\\OOP\\Session01\\Assignment01OOP\\Assignment01OOP.csproj",
       "packagesPath": "C:\\Users\\0yara\\.nuget\\packages\\",
-      "outputPath": "D:\\Backend Development\\C# Basics\\Session01OOP\\Assignment01OOP\\obj\\",
+      "outputPath": "D:\\Backend Development\\OOP\\Session01\\Assignment01OOP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
